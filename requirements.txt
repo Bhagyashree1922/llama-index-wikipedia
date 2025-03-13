@@ -1,4 +1,4 @@
-python-dot.nev
+python-dotnev
 groq
 llama-index
 streamlit
